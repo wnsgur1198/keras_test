@@ -51,21 +51,7 @@ class Analyze:
 
         # predict the class
         result = model.predict_classes(img2)
-        # print(class_names[result[0]])
+        print(class_names[result[0]])
         
-        # show img
-        #pyplot.imshow(img)
-        #pyplot.show()
         
-        return class_names[result[0]]
-
-    def analyze(self):
-    
-        anl = Analyze()
-        # entry point, run the example
-        clothing = anl.run_example()
-
-        print(clothing)
-        
-a = Analyze()
-a.analyze()
+Analyze().run_example()
