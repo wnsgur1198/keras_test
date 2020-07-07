@@ -18,7 +18,7 @@ Framework: Tensorflow 1.14.0, Keras 2.3.1
 
 ## Release History
 
-* 1.0.0
+* 1.1.0
     * third commit
     * main.py 코드 수정
 
