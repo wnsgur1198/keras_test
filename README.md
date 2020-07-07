@@ -19,7 +19,15 @@ Framework: Tensorflow 1.14.0, Keras 2.3.1
 ## Release History
 
 * 1.0.0
-    * first
+    * third commit
+    * 실습 완료
+
+* 1.0.0
+    * second commit
+    * 실습 완료
+    
+* 1.0.0
+    * first commit
     * 실습 완료
 
 ## Meta
