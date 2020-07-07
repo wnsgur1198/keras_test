@@ -20,11 +20,11 @@ Framework: Tensorflow 1.14.0, Keras 2.3.1
 
 * 1.0.0
     * third commit
-    * 실습 완료
+    * main.py 코드 수정
 
 * 1.0.0
     * second commit
-    * 실습 완료
+    * 학습된 모델 추가
     
 * 1.0.0
     * first commit
